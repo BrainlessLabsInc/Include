@@ -1,0 +1,2 @@
+libatomic_ops-7.3alpha2
+https://github.com/ivmai/libatomic_ops
